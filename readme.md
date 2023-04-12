@@ -23,7 +23,6 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 [![Linux](https://github.com/salesdevelopernew/salesdevelopernew/blob/main/Repository/linux.svg)](https://www.linux.org)
 [![Debian](https://github.com/salesdevelopernew/salesdevelopernew/blob/main/Repository/debian.svg)](https://www.debian.org)
 
-<br>
 <h2> Github Stats </h2> 
 <a href="https://github.com/Salesdevelopernew/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salesdevelopernew&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Salesdevelopernew&theme=tokyonight" alt="Salesdevelopernew" />
