@@ -25,6 +25,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 [![Windows](https://img.shields.io/badge/-Windows-%23c9d1d9?logo=Windows)](https://www.microsoft.com/)
 [![Linux](https://github.com/salesdevelopernew/salesdevelopernew/blob/main/Repository/linux.svg)](https://www.linux.org)
 [![Debian](https://github.com/salesdevelopernew/salesdevelopernew/blob/main/Repository/debian.svg)](https://www.debian.org)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-%23c9d1d9?logo=PowerShell)]()
 
 <h2> Github Stats </h2> 
 <a href="https://github.com/Salesdevelopernew/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salesdevelopernew&layout=compact&theme=tokyonight" /></a>
