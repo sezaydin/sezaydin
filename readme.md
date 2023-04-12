@@ -4,6 +4,9 @@
 
 My name is Sezayi and I'm Sales Force Developer.
 If you're interested in hiring me, check out my linkedin account [Linkedin](https://www.linkedin.com/in/sezayi/). 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Salesdevelopernew&label=Profile%20views&color=0e75b6&style=flat" alt="Salesdevelopernew" />
+</p>
 
 ## Languages and tools
 
