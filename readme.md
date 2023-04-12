@@ -18,7 +18,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 [![SalesForce](https://img.shields.io/badge/Salesforce-%23c9d1d9?logo=Salesforce)](https://www.salesforce.com/)
 [![Java](https://img.shields.io/badge/Java-%23c9d1d9?logo=Java)](https://www.java.com/en/)
 
-[![Docker](https://img.shields.io/badge/-Docker-%23c9d1d9?logo=docker)](https://www.docker.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23c9d1d9?logo=JavaScript)](https://www.javascript.com)
 [![MySQL](https://img.shields.io/badge/-MySQL-%23c9d1d9?logo=MySQL)](https://www.mysql.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-%23c9d1d9?logo=HTML5)]()
 
