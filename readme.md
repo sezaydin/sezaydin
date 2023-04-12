@@ -5,7 +5,6 @@
 My name is Sezayi and I'm Sales Force Developer.
 If you're interested in hiring me, check out my linkedin account [Linkedin](https://www.linkedin.com/in/sezayi/). 
 
-
 ## Languages and tools
 
 [![Git](https://github.com/salesdevelopernew/salesdevelopernew/blob/main/Repository/git.svg)](https://git-scm.com)
@@ -33,8 +32,8 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 <div id="github_stats" align="center">
 
 [![Sezayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salesdevelopernew&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
-  <br>
-  <br>
+<br>
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Salesdevelopernew)](https://github.com/Salesdevelopernew/github-profile-trophy)
 </br>
 </div>
