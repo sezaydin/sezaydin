@@ -40,9 +40,9 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 [![SalesForce](https://img.shields.io/badge/Salesforce-%23c9d1d9?logo=Salesforce)](https://www.salesforce.com/)
 [![Java](https://img.shields.io/badge/Java-%23c9d1d9?logo=Java)](https://www.java.com/en/)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23c9d1d9?logo=JavaScript)](https://www.javascript.com)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 [![MySQL](https://img.shields.io/badge/-MySQL-%23c9d1d9?logo=MySQL)](https://www.mysql.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-%23c9d1d9?logo=HTML5)]()
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 
 [![Windows](https://img.shields.io/badge/-Windows-%23c9d1d9?logo=Windows)](https://www.microsoft.com/)
