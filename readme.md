@@ -35,6 +35,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?logo=github)
 [![GitLab](https://img.shields.io/badge/GitLab-%23c9d1d9?logo=GitLab)]([https://www.salesforce.com/](https://about.gitlab.com/why-gitlab))
+[![GitLab](https://img.shields.io/badge/GitLab-blue?logo=GitLab)]([https://www.salesforce.com/](https://about.gitlab.com/why-gitlab))
 
 [![Python](https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/python.svg)](https://www.python.org)
 [![SalesForce](https://img.shields.io/badge/Salesforce-%23c9d1d9?logo=Salesforce)](https://www.salesforce.com/)
