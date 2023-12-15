@@ -7,6 +7,27 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sezayiaydin&label=Profile%20views&color=0e75b6&style=flat" alt="sezayiaydin" />
 </p>
+## Core Platform
+
+![Certified Salesforce Adminstrator](https://img.shields.io/badge/Certified-Administrator-90D1FE?logo=salesforce)
+
+![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Certified-Platform%20Developer%20I-8E9BEF?logo=salesforce)
+![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform%20Developer%20II-8E9BEF?logo=salesforce)
+
+
+![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-16325C?logo=salesforce)
+![Lightning Web Components](https://img.shields.io/badge/-Lightning%20Web%20Components-16325C?logo=salesforce)
+![Lightning Design System](https://img.shields.io/badge/-Lightning%20Design%20System-16325C?logo=salesforce)
+
+![Experience Cloud Security](https://img.shields.io/badge/-Experience%20Cloud%20Security-16325C?logo=salesforce)
+![Experience Cloud Custom Theme](https://img.shields.io/badge/-Experience%20Cloud%20Custom%20Theme-16325C?logo=salesforce)
+![Experience Cloud Development](https://img.shields.io/badge/-Experience%20Cloud%20Developement-16325C?logo=salesforce)
+
+
+## App Exchange Products
+
+![Copado](https://img.shields.io/badge/-Copado-00C3EF)
+
 
 ## Languages and tools
 
@@ -21,11 +42,16 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23c9d1d9?logo=JavaScript)](https://www.javascript.com)
 [![MySQL](https://img.shields.io/badge/-MySQL-%23c9d1d9?logo=MySQL)](https://www.mysql.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-%23c9d1d9?logo=HTML5)]()
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 
 [![Windows](https://img.shields.io/badge/-Windows-%23c9d1d9?logo=Windows)](https://www.microsoft.com/)
 [![Linux](https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/linux.svg)](https://www.linux.org)
 [![Debian](https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/debian.svg)](https://www.debian.org)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-%23c9d1d9?logo=PowerShell)]()
+
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code)
 
 <h2> Github Stats </h2> 
 <a href="https://github.com/sezayiaydin/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezayiaydin&layout=compact&theme=tokyonight" /></a>
