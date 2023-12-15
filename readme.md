@@ -32,8 +32,8 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 ## Languages and tools
 
-[![Git](https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/git.svg)](https://git-scm.com)
-[![GitHub](https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/github.svg)](https://github.com/sezayiaydin)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?logo=github)
 [![GitLab](https://img.shields.io/badge/GitLab-%23c9d1d9?logo=GitLab)]([https://www.salesforce.com/](https://about.gitlab.com/why-gitlab))
 
 [![Python](https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/python.svg)](https://www.python.org)
