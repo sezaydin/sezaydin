@@ -29,7 +29,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 <h2> Github Stats </h2> 
 <a href="https://github.com/sezayiaydin/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezayiaydin&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight" alt="sezayiaydin" />
+<img width="10%" src="https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight" alt="sezayiaydin" />
 </br>
 
 <div id="github_stats" align="center">
