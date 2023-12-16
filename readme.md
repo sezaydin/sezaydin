@@ -8,10 +8,9 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
   <img src="https://komarev.com/ghpvc/?username=sezayiaydin&label=Profile%20views&color=0e75b6&style=flat" alt="sezayiaydin" />
 </p>
 
-# Salesforce Experience and Certifications
 ## Core Platform 
 
-![Certified Salesforce Adminstrator](https://img.shields.io/badge/Certified-Administrator-90D1FE?logo=salesforce)
+![Certified Salesforce Adminstrator](https://img.shields.io/badge/Salesforce%20Certified-Administrator-90D1FE?logo=salesforce)
 
 ![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Certified-Platform%20Developer%20I-8E9BEF?logo=salesforce)
 ![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform%20Developer%20II-8E9BEF?logo=salesforce)
