@@ -27,6 +27,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 ## App Exchange Products
 
 ![Copado](https://img.shields.io/badge/-Copado-00C3EF)
+
 ![Certified Copado Fundamentals I](https://img.shields.io/badge/Certified-Copado%20Fundamentals%20I-8E9BEF?logo=copado.svg)
 ![Certified Copado Fundamentals II](https://img.shields.io/badge/Certified-Copado%20Fundamentals%20II-8E9BEF?logo=copado.svg)
 
