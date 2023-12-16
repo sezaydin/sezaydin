@@ -16,6 +16,9 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 ![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform%20Developer%20II-8E9BEF?logo=salesforce)
 
 
+![Certified Copado Fundamentals I](https://img.shields.io/badge/Certified-Copado%20Fundamentals%20I-8E9BEF?logo=(https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/copado.svg))
+
+
 
 
 ![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-16325C?logo=salesforce)
