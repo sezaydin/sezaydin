@@ -68,6 +68,8 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 
 <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sezayiaydin&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=sezayiaydin)](https://github.com/sezayiaydin/github-profile-trophy)
 </br>
