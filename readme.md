@@ -1,4 +1,3 @@
-@@ -1,61 +1,67 @@
 # Hello, World! 👋
 <img src="https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/greetings.gif" align="center" style="width: 100; height: 300px; padding: 5px;" />
 My name is Sezayi and I'm Sales Force Developer.
