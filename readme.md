@@ -56,6 +56,12 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code)
 
 <h2> Github Stats </h2> 
+<a href="https://github.com/sezayiaydin/github-readme-stats"></a>
+  <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezayiaydin&layout=compact&theme=tokyonight" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight" alt="sezayiaydin" />
+
+
+
 <a href="https://github.com/sezayiaydin/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezayiaydin&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight" alt="sezayiaydin" />
 </br>
