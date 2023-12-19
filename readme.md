@@ -10,7 +10,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 ## Core Platform 
 
-![Certified Salesforce Adminstrator](https://img.shields.io/badge/Salesforce%20Certified-Administrator%20-90D1FE?logo=salesforce)
+![Certified Salesforce Adminstrator](https://img.shields.io/badge/Salesforce%20Certified-Administrator%20I-90D1FE?logo=salesforce)
 
 ![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Salesforce%20Certified-Platform%20Developer%20I-8E9BEF?logo=salesforce)
 ![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Salesforce%20Certified-Platform%20Developer%20II-8E9BEF?logo=salesforce)
