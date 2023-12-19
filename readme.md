@@ -39,7 +39,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 [![Python](https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/python.svg)](https://www.python.org)
 [![SalesForce](https://img.shields.io/badge/Salesforce-%238E9BEF?logo=Salesforce)](https://www.salesforce.com/)
-[![Java](https://img.shields.io/badge/Java-%23c9d1d9?logo=Java)](https://www.java.com/en/)
+[![Java](https://img.shields.io/badge/Java-%2305e2ff?logo=Java)](https://www.java.com/en/)
 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 [![MySQL](https://img.shields.io/badge/-MySQL-%23c9d1d9?logo=MySQL)](https://www.mysql.com/)
