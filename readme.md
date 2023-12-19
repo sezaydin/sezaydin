@@ -42,7 +42,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 [![Java](https://img.shields.io/badge/Java-%2305e2ff?logo=Java)](https://www.java.com/en/)
 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-[![MySQL](https://img.shields.io/badge/-MySQL-%23c9d1d9?logo=MySQL)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-%23FF6C37?logo=MySQL)](https://www.mysql.com/)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 
