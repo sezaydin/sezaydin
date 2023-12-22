@@ -13,7 +13,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 ![Certified Salesforce Adminstrator](https://img.shields.io/badge/Salesforce%20Certified-Administrator%20I-8E9BEF?logo=salesforce)
 
 ![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Salesforce%20Certified-Platform%20Developer%20I-8E9BEF?logo=salesforce)
-![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Salesforce%20Certified-Platform%20Developer%20II-8E9BEF?logo=salesforce)
+
 
 ![Flow Builder](https://img.shields.io/badge/Salesforce%20-Flow%20Builder-FF6C37?logo=salesforce)
 ![Lightning Web Components](https://img.shields.io/badge/Salesforce%20-Lightning%20Web%20Components-FF6C37?logo=salesforce)
