@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-<img src="https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/greetings.gif" align="center" style="width: 50; height: 150px; padding: 5px;" />
+<img src="https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/greetings.gif" align="center" style="width: 50; height: 100px; padding: 5px;" />
 
 My name is Sezayi and I'm Sales Force Developer.
 If you're interested in hiring me, check out my linkedin account [Linkedin](https://www.linkedin.com/in/sezayi/). 
