@@ -66,7 +66,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 <div id="github_stats" align="center">
 
-[![Sezayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezayiaydin&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
+[![Sezayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezaydin&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 <br>
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=sezaydin)](https://github.com/sezaydin/github-profile-trophy)
