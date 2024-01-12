@@ -58,7 +58,7 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 <h2> Github Stats </h2> 
 
-<a href="https://github.com/sezayiaydin/github-readme-stats"></a>
+<a href="https://github.com/sezaydin/github-readme-stats"></a>
 <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezaydin&layout=compact&theme=tokyonight" />
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sezaydin&theme=tokyonight" alt="sezayiaydin" />
 </br>
